@@ -6,9 +6,8 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Database](#database)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Screen Recording of Application Demo](#Screen Recording of Application Demo)
 - [License](#license)
 
 ## Installation
@@ -45,6 +44,10 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 - View the total utilized budget by department.
 - Database
 - The application uses a MySQL database to store employee, role, and department information. Make sure to set up your database and update the connection details in ./db/index.js.
+
+## Screenshots
+
+![Alt text](screenshot.png)
 
 ## Screen Recording of Application Demo
 
