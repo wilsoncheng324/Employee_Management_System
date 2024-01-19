@@ -31,11 +31,11 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 
 
 ## Usage
-Run the application using the following command:
+1. Run the application using the following command:
     ```bash
     node index.js
 
-Follow the prompts to perform various actions in the Employee Management System.
+2. Follow the prompts to perform various actions in the Employee Management System.
 
 ## Features
 
