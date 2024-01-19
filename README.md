@@ -15,13 +15,15 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/wilsoncheng324/employee-management-system.git
 
 2. Navigate to the project directory:
-    ![Alt text](Navigate_to_directory.png)
+   ```bash
+   cd employee-management-system
 
 3. Install dependencies:
-    ![Alt text](npm_install.png)
+   ```bash
+   npm i
 
 4. Set up your database:
     Ensure you have a MySQL database running.
@@ -29,9 +31,11 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 
 
 ## Usage
-    Run the application using the following command:
-    ![Alt text](npm_execute.png)
-    Follow the prompts to perform various actions in the Employee Management System.
+Run the application using the following command:
+    ```bash
+    node index.js
+
+Follow the prompts to perform various actions in the Employee Management System.
 
 ## Features
 
