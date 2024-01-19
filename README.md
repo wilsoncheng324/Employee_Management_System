@@ -46,9 +46,9 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 - Database
 - The application uses a MySQL database to store employee, role, and department information. Make sure to set up your database and update the connection details in ./db/index.js.
 
-## Screenshots
+## Screen Recording of Application Demo
 
-Include screenshots or GIFs demonstrating the usage of your application. You can create a screenshots directory and add images.
+https://drive.google.com/file/d/1vR5wy_4UfwBkyCIlf3HZguk0nsw05WCX/view
 
 
 ## License
