@@ -47,7 +47,7 @@ This is a simple Employee Management System implemented using Node.js and Inquir
 
 ## Screenshots
 
-![Alt text](screenshot.png)
+![Alt text](Assets\screenshot.png)
 
 ## Screen Recording of Application Demo
 
